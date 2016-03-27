@@ -35,3 +35,13 @@ a list of links to help you make various important architectural decisions
 ## Database Tier
 
 * [Designing Data-Intensive Applications](http://dataintensive.net/) - NoSQL is all the buzz. This book does a good job of explaining the design tradeoffs and feature differences between different database technologies to try and help you pick the right one for your application
+
+## TODO
+* Explain topics like high availability
+* Security
+ * HTTPS/SSL, private networks
+* CI
+* Backup & disaster recovery
+* Deployment, config management
+* Logging
+* Monitoring and alerting
