@@ -12,7 +12,7 @@ a list of links to help you make various important architectural decisions
 
 ## Overview
 
-* [A Comprehensive Guide to Building a Scalable Web App on Amazon Web Services](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1)
+* [A Comprehensive Guide to Building a Scalable Web App on Amazon Web Services](https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1) - Gives a great introduction to the roles of the various layers in web applications. Focuses on AWS, but most of the concepts generalize easy to open source technologies
 
 ## General
 
