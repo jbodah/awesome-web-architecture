@@ -1,7 +1,7 @@
 # awesome-web-architecture
 a list of links to help you make various important architectural decisions 
 
-* [Awesome Web Architecture]
+* [Awesome Web Architecture](#awesome)
   * [Overview/Layers](#overview)
   * [General](#general)
   * [Load Balancing Tier](#load-balancing-tier)
