@@ -18,6 +18,8 @@ a list of links to help you make various important architectural decisions
 
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Explains the architecture of various high-profile open source technologies including load balancers, web servers, message queues, continuous integration, configuration management, and many more
 
+* [7 Lessons Learned While Building Reddit To 270 Million Page Views A Month](http://highscalability.com/blog/2010/5/17/7-lessons-learned-while-building-reddit-to-270-million-page.html)
+
 ## Load Balancing Tier
 
 ## Web Tier
